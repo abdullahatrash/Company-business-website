@@ -1,5 +1,5 @@
 # Company business website 
-<img src="./Reveal/theme/1.JPG" width="400" alt="home page photo" />
+<img src="./theme/1.JPG" width="400" alt="home page photo" />
 
 ## Features
 
